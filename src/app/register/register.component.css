@@ -1,17 +1,6 @@
-/* styles.css */
+/* src/app/register/register.component.css */
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f7f7f7;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-  
-  form {
+form {
     background: white;
     padding: 20px;
     border-radius: 5px;
